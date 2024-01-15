@@ -568,8 +568,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.359997, y: 0.0000076293945}
-  m_SizeDelta: {x: 580.65, y: 356.65}
+  m_AnchoredPosition: {x: 18.8461, y: -11}
+  m_SizeDelta: {x: 609.942, y: 356.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &746099376
 MonoBehaviour:
@@ -644,7 +644,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 34.146683, y: 3.2294}
+  m_AnchoredPosition: {x: -0.0000076294, y: 0.0000026226}
   m_SizeDelta: {x: 2453.5063, y: 2722.9204}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &775473188
@@ -1013,7 +1013,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.360007, y: 324}
+  m_AnchoredPosition: {x: 0.0000076293945, y: 346}
   m_SizeDelta: {x: 755.1003, y: 83.3436}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1002066588
@@ -1049,7 +1049,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Toothless Metronmoe
+  m_Text: Toothless Metronome
 --- !u!222 &1002066589
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1371,8 +1371,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 575.02966, y: 244.0127}
-  m_SizeDelta: {x: 2043.5637, y: 1082.5312}
+  m_AnchoredPosition: {x: 485, y: 244}
+  m_SizeDelta: {x: 2042, y: 1024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &1605836166
 SpriteRenderer:
@@ -1463,7 +1463,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000015259, y: -337}
+  m_AnchoredPosition: {x: 18.846, y: -337}
   m_SizeDelta: {x: 549.93, y: 151.6379}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1931959089
