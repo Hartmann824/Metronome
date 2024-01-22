@@ -11,7 +11,7 @@ public class MainControl : MonoBehaviour
     [SerializeField] AudioSource Music;
     [SerializeField] GameObject toothless;
     [SerializeField] GameObject PauseAndStart;
-    [SerializeField] Text PASword;
+    [SerializeField] Text PAS_word;
     [SerializeField] Animator ani;
     [SerializeField] AudioSource cat;
     int timecount;
@@ -68,7 +68,7 @@ public class MainControl : MonoBehaviour
             cat.Play();
             isplay = false;
             ani.enabled = false;
-            PASword.text = "Play";
+            PAS_word.text = "Play";
         }
 
         else
@@ -76,7 +76,7 @@ public class MainControl : MonoBehaviour
             Music.UnPause();
             isplay = true;
             ani.enabled = true;
-            PASword.text = "Pause";
+            PAS_word.text = "Pause";
         }
             
 
